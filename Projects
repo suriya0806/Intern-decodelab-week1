@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Projects | Suriya Sri S</title>
+
+    <meta name="description" content="Explore projects developed by Suriya Sri S in Python, Data Science, and Web Development.">
+</head>
+
+<body>
+
+<header>
+    <h1>Projects</h1>
+
+    <nav aria-label="Main Navigation">
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="projects.html" aria-current="page">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+
+    <section aria-labelledby="project-heading">
+        <h2 id="project-heading">Featured Projects</h2>
+
+        <article>
+            <h3>Bitcoin Price Alert Notification</h3>
+            <p>
+                Python application that monitors Bitcoin prices and
+                sends notifications when thresholds are reached.
+            </p>
+        </article>
+
+        <article>
+            <h3>Cricket Chatbot</h3>
+            <p>
+                AI chatbot that provides live cricket updates and
+                match information.
+            </p>
+        </article>
+
+        <article>
+            <h3>Cold Plate ML Framework</h3>
+            <p>
+                Machine Learning based framework for thermal
+                analysis and cold plate selection.
+            </p>
+        </article>
+
+    </section>
+
+</main>
+
+<footer>
+    <p>&copy; 2026 Suriya Sri S</p>
+</footer>
+
+</body>
+</html>
